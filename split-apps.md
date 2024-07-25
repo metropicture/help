@@ -2,8 +2,8 @@
 
 Metropicture supports two gestures crucial for splitting apps so that you can see them side by side.
 
-1. Pinch top and drag bottom
-2. Drag the app to one of (top, bottom, center, left, right)
+1. Pinch top and drag bottom indefinitely
+2. Drag and release the app to one of the top, bottom, center, left and right locations.
 
 Notice the following:
 
