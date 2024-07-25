@@ -14,10 +14,7 @@ The operating system allows displaying apps side by side horizontally through dy
 
 ## Windows
 
-A window is a primary user interface control.
-
-* An app is normally in big picture mode. Big picture mode means the app is fullscreen.
-* Switch to desktop mode by right clicking either the app item or the top of the screen and then clicking the <kbd>Desktop</kbd> option.
+[Help: Big picture mode](big-picture-mode.md)
 
 ## Desktop
 
