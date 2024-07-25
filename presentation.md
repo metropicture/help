@@ -6,7 +6,7 @@
 
 ## File Explorer
 
-The File Explorer app browses files in the local machine, in the user home, and in removable devices.
+The File Explorer app browses files in the local machine, in the user home, in removable devices, and in networks.
 
 ## Bash
 
