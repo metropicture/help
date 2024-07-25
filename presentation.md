@@ -21,7 +21,7 @@ A window is a primary user interface control.
 
 ## Desktop
 
-The operating system includes a common desktop where windows are priorized when opening apps.
+The operating system includes a common desktop where desktop windows are priorized over big picture windows when opening apps.
 
 ## File Explorer
 
