@@ -1,6 +1,6 @@
 # Split apps
 
-Metropicture supports two gestures crucial for splitting apps so that you can see them side by side through horizontal divisors.
+Metropicture supports two gestures crucial for splitting apps so that you can see them side by side horizontally.
 
 1. Pinch top and drag bottom indefinitely
 
