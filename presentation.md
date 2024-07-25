@@ -2,6 +2,8 @@
 
 Metropicture is an open source Unix based operating system intended for desktop and tablet devices.
 
+Instead of a windowing system, the operating system allows displaying more than one app per time through one or more draggable divisors in the horizontal or vertical direction.
+
 ## Split apps
 
 [Help: Split apps](https://github.com/metropicture/help/blob/master/split-apps.md)
