@@ -20,16 +20,14 @@ The operating system allows displaying apps side by side horizontally through dy
 
 The operating system includes a common desktop where desktop windows are priorized over big picture windows when opening apps.
 
-## File Explorer
+## File Explorer app
 
 The File Explorer app browses files in the local machine, in the user home, in removable devices, and in networks.
 
-## Bash
+## Bash app
 
-The Bash app allows entering text commands in the Bash language.
+[Help: Bash](apps/bash.md)
 
-![image](https://github.com/user-attachments/assets/7dd9476e-6cc5-4d22-a1f8-50489c8891f7)
-
-## Processing
+## Processing app
 
 The Processing app provides management of actively running apps or processes and setting of startup processes.
