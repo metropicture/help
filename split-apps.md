@@ -13,4 +13,4 @@ Notice the following:
 
 ## Drag background apps
 
-[Help: Drag background apps](drag-background-apps.md)
+[Help: Background apps](background-apps.md)
