@@ -6,9 +6,11 @@ Metropicture supports two gestures crucial for splitting apps so that you can se
 
 ![](https://github.com/metropicture/help/blob/master/images/Split-app-1.png?raw=true)
 
-2. Release the app to one of the top, bottom, center, left and right locations.
+2. Release the app to one of the left, center and right locations.
 
 ![](https://github.com/metropicture/help/blob/master/images/Split-app-2.png?raw=true)
+
+Releasing to center will fully expand the app over the current app.
 
 ## Drag background apps
 
