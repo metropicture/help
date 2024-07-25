@@ -4,6 +4,10 @@
 
 [Help: Split apps](https://github.com/metropicture/help/blob/master/split-apps.md)
 
+## Background apps
+
+[Help: Background apps](https://github.com/metropicture/help/blob/master/background-apps.md)
+
 ## File Explorer
 
 The File Explorer app browses files in the local machine, in the user home, in removable devices, and in networks.
