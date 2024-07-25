@@ -10,3 +10,7 @@ Notice the following:
 - Releasing the app in the center cancels the split.
 - Releasing the app to top or bottom will keep the app at one of the vertical sides and display a draggable app separator.
 - Releasing the app to left or right will keep the app at one of the horizontal sides and display a draggable app separator.
+
+## Drag background apps
+
+[Help: Drag background apps](drag-background-apps.md)
