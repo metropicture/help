@@ -1,5 +1,7 @@
 # Presentation
 
+Metropicture is an open source Unix based operating system intended for desktop and tablet devices.
+
 ## Split apps
 
 [Help: Split apps](https://github.com/metropicture/help/blob/master/split-apps.md)
