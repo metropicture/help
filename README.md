@@ -1,2 +1,3 @@
-# help
-Help documentation
+# Help
+
+This repository includes help documentation files in several topics.
