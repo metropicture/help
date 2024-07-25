@@ -20,4 +20,4 @@ The Bash app allows entering text commands in the Bash language.
 
 ## Processing
 
-The Processing app provides management of actively running processes and setting of startup processes.
+The Processing app provides management of actively running apps or processes and setting of startup processes.
