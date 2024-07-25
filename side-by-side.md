@@ -1,4 +1,4 @@
-# Side-by-side apps
+# Side-by-side
 
 Metropicture supports two gestures crucial for splitting apps so that you can see them side by side horizontally.
 
