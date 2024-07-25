@@ -1,8 +1,8 @@
-# Background apps
+# Background grids
 
 There are two gestures crucial for displaying apps that are out of your screen:
 
-1. Click or drag the previous background app
+1. Click or drag the previous background app or grid
 
 ![1](https://github.com/metropicture/help/blob/master/images/Background-app-1.png?raw=true)
 
