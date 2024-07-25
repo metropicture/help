@@ -2,11 +2,11 @@
 
 There are two gestures crucial for resuming or dragging apps that are out of your screen:
 
-- Click or drag background app
+1. Click or drag background app
 
 ![1](https://github.com/metropicture/help/blob/master/images/Background-app-1.png?raw=true)
 
-- Move to the bottom left corner, then slide up shortly for left bar containing all apps as items that you may click or drag.
+2. Move to the bottom left corner, then slide up shortly for left bar containing all apps as items that you may click or drag.
 
 ![2](https://github.com/metropicture/help/blob/master/images/Background-app-2.png?raw=true)
 
