@@ -12,6 +12,17 @@ The operating system allows displaying apps side by side horizontally through dy
 
 [Help: Background grids](https://github.com/metropicture/help/blob/master/background-grids.md)
 
+## Windows
+
+A window is a primary user interface control.
+
+* An app is normally in big picture mode. Big picture mode means the app is fullscreen.
+* Switch to desktop mode by right clicking either the app item or the top of the screen and then clicking the <kbd>Desktop</kbd> option.
+
+## Desktop
+
+The operating system includes a common desktop where windows are priorized when opening apps.
+
 ## File Explorer
 
 The File Explorer app browses files in the local machine, in the user home, in removable devices, and in networks.
