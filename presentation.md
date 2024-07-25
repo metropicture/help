@@ -4,13 +4,13 @@ Metropicture is an open source Unix based operating system intended for desktop 
 
 Instead of a windowing system, the operating system allows displaying more than one app per time through one or more draggable divisors in the horizontal or vertical direction.
 
-## Split apps
+## Side-by-side
 
-[Help: Split apps](https://github.com/metropicture/help/blob/master/split-apps.md)
+[Help: Side-by-side](https://github.com/metropicture/help/blob/master/side-by-side.md)
 
-## Background apps
+## Background grids
 
-[Help: Background apps](https://github.com/metropicture/help/blob/master/background-apps.md)
+[Help: Background grids](https://github.com/metropicture/help/blob/master/background-grids.md)
 
 ## File Explorer
 
