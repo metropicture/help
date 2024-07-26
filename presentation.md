@@ -2,7 +2,7 @@
 
 Metropicture is an open source Unix based operating system intended for desktop and tablet devices.
 
-The operating system allows displaying apps side by side horizontally through dynamic divisors.
+The operating system defaults to a big picture mode that allows displaying apps side by side horizontally through dynamic divisors.
 
 For maximum compatibility with existing apps, Metropicture is based in the Debian operating system.
 
