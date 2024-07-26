@@ -12,6 +12,6 @@ Metropicture supports two gestures crucial for splitting apps so that you can se
 
 Releasing to center will fully expand the app over the current app.
 
-## Drag background apps
+## Drag background grids
 
-[Help: Background apps](background-apps.md)
+[Help: Background grids](background-grids.md)
