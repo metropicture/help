@@ -1,10 +1,16 @@
 # Presentation
 
-Metropicture is an open source Unix based operating system intended for desktop and tablet devices.
-
-The operating system defaults to a big picture mode that allows displaying apps side by side horizontally through dynamic divisors.
+Metropicture is an open source Unix based operating system for desktop operating systems.
 
 For maximum compatibility with existing apps, Metropicture is based in the Debian operating system.
+
+## Big picture or desktop
+
+The operating system defaults to a big picture mode that allows displaying apps side by side horizontally through dynamic divisors; the user may switch between big picture and desktop. However, the user can choose to prefer the desktop mode by default and a *desktop* start menu through the system settings.
+
+In the desktop mode, windows are priorized over big picture windows when opening apps.
+
+[Help: Big picture mode](big-picture-mode.md)
 
 ## Side-by-side
 
@@ -17,14 +23,6 @@ For maximum compatibility with existing apps, Metropicture is based in the Debia
 ## Status or right menu
 
 Moving to the bottom right corner and sliding up shows up the status (date and time, battery icon and connectivity icon) and then expands to displaying the right menu.
-
-## Windows
-
-[Help: Big picture mode](big-picture-mode.md)
-
-## Desktop
-
-The operating system includes a common desktop where desktop windows are priorized over big picture windows when opening apps.
 
 ## File Explorer app
 
